@@ -1,0 +1,16 @@
+{
+  "name": "nodedatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app17Nov.js",
+  "scripts": {
+    "start": "nodemon app17Nov.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Kishore",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "readline-sync": "^1.4.10"
+  }
+}
